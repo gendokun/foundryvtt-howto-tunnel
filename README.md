@@ -26,3 +26,5 @@ Wir nutzen die sog. "Quick Tunnel" Funktion die grundsätzlich hier beschrieben 
 7. Teilen eures Links für den Login. In meinem Beispiel hier ist mein Foundry jetzt unter
  `https://boxes-bass-beam-suddenly.trycloudflare.com` erreichbar (siehe Screenshot)
 ![Foundry Login](/FoundryLogin.jpg)
+
+**Achtung! Die Adresse (URL) ist nach jedem Tunnel Setup eine andere, da sie zufällig generiert wird**
