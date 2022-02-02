@@ -24,3 +24,4 @@ Wir nutzen die sog. "Quick Tunnel" Funktion die grundsätzlich hier beschrieben 
 `cloudflared-windows-amd64.exe tunnel --url http://localhost:30000`
 ![Tunnel Setup](/CF-Tunnel-setup.jpg)
 7. Teilen eures Links für den Login. In meinem Beispiel hier ist mein Foundry jetzt unter `https://boxes-bass-beam-suddenly.trycloudflare.com` erreichbar (siehe Screenshot)
+![Foundry Login](/FoundryLogin.jpg)
